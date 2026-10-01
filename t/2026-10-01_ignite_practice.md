@@ -1,0 +1,27 @@
+- Plastics suck
+- We need an alternative
+- Biocomposites
+  - Synthetic (oil based) fiber -> natural plant fiber
+- Upsides
+  - Everywhere
+  - Cheap to turn into things
+  - Biodegradable
+- Problem: natural variance between plants
+  - Translates unpredicably into differences in composite performance
+- We need some way to predict a composite's performance given data about the fiber going in
+  - Machine learning sounds promising
+  - Attempts over the past two years: "not enough data"
+  - Without enough data, models can't figure out the correlations between in and out
+  - Encoding input is also an issue: not every affect is a number
+- "Not enough data", but a lot of research. How?
+  - Some data isn't reported
+    - What makes composites strong? Dunno
+  - Some composites aren't reported
+    - Bad composite = experiment failed = not gonna report it
+  - Some data is misreported
+    - 20 GPa pressure
+- Crossroad
+  - Some, not enough, not enough quality, only a lot in some places
+  - We need an analysis of what we've got
+    - What is / isn't being reported, and how does that affect our usable data pool?
+  - With this understanding in place, work can be done to build datasets
