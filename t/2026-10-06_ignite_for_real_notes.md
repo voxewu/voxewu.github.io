@@ -1,0 +1,36 @@
+- 0. Intro
+  - Name, SULI, ESD, Zhao
+  - Plastic
+- 1. Biocomposites
+  - Plastics destroying the world 
+  - Too useful to stop using
+  - Need a good alternative
+  - Synthetic fibers -> Natural fibers
+  - Upsides: 
+    - Biodegradable
+    - Plentiful -- cheap
+  - Downside:
+    - Plants are variable
+    - Resulting composites are variable
+    - Only way to know composite performance is testing
+  - Need a way to predict
+- 2. Machine Learning
+  - Could train a model
+  - Many attempts
+  - "Not enough data"
+  - 30-years of experiments
+  - Data is documented poorly
+  - This is currently holding biocomposites back in a major way
+- 3. Audit
+  - Fixing the data problem isn't going to be easy
+  - Seems prudent to do an audit
+  - Auditing:
+    - What we do have
+    - What we don't have
+    - How those holes affect the number of records we can use for training models
+  - Data is buried within research papers: start there
+  - Two passes
+    - One: AI -- LLM checks for variables reported
+    - Two: Human -- check AI correctness and note results
+      - How data was reported is important
+  - Ultimate goal: motivate new research to build datasets
